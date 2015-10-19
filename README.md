@@ -9,6 +9,6 @@ Then, with you favorit text editor, set a correct download directory in *DOWNLOA
 <br/>
 Make the script executable:
 <br/>`chmod +x installJDK.sh`
-<br/>Then:
+<br/>Then run it:
 <br/>`./installJDK.sh`
 

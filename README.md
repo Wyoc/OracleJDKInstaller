@@ -12,3 +12,6 @@ Make the script executable:
 <br/>Then run it:
 <br/>`./installJDK.sh`
 
+
+
+
